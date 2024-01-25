@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-CV [here](https://lberaldoesilva.githib.io/files/cv_LBeS.pdf) (pdf)
+CV [here](/files/cv_LBeS.pdf) (pdf)
