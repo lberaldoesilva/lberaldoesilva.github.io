@@ -1,6 +1,7 @@
 ---
 permalink: /
 excerpt: "About me"
+title: "Leandro Beraldo e Silva"
 author_profile: true
 redirect_from: 
   - /about/
