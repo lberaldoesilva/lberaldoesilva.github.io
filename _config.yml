@@ -313,7 +313,7 @@ compress_html:
   ignore:
     envs: development
 scholar:
-  style: apa
+  style: current-opinion
   locale: en
 
   sort_by: none
