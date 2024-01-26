@@ -318,14 +318,13 @@ scholar:
 
   sort_by: none
   order: descending
-  bibliography_template: bib
+  bibliography_template: "{{reference | replace_first: 'Beraldo e Silva L', '<b>Beraldo e Silva L</b>'}}"
 
   group_by: none
   group_order: ascending
 
   source: ./_bibliography
   bibliography: references.bib
-  bibliography_template: ""
 
   replace_strings: true
   join_strings:    true

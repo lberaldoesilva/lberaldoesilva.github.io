@@ -1,27 +1,39 @@
----
----
-<div class="text-justify">
-    {{reference}}
-</div>
+<!-- --- -->
+<!-- --- -->
+<!-- <div class="text-justify"> -->
+<!--   {{reference}} -->
+<!-- </div> -->
 
-{% if entry.note %}
-<div>
-    <em>{{ entry.note }}</em>
-</div>
+<!-- {% if entry.note %} -->
+<!-- <div> -->
+<!--     <em>{{ entry.note }}</em> -->
+<!-- </div> -->
+<!-- {% endif %} -->
+
+<!-- <div> -->
+<!--     {% if entry.doi %} -->
+<!--     <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}">doi</a></span> -->
+<!--     {% endif %} -->
+<!--     {% if entry.hal_id %} -->
+<!--     <span><a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}">hal</a></span> -->
+<!--     {% endif %} -->
+<!-- </div> -->
+<!-- <div> -->
+<!--     {% if entry.pdf %} -->
+<!--     <span><a href="{{ entry.pdf }}">pdf</a></span> -->
+<!--     {% endif %} -->
+<!-- </div> -->
+
+<!-- <div><pre>{{ entry.bibtex }}</pre></div> -->
+---
+---
+{{ reference }}
+
+{% if entry.abstract %}
+<p>{{ entry.abstract }}</p>
 {% endif %}
 
-<div>
-    {% if entry.doi %}
-    <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}">doi</a></span>
-    {% endif %}
-    {% if entry.hal_id %}
-    <span><a href="{{ entry.hal_id | prepend: 'http://hal.inria.fr/' }}">hal</a></span>
-    {% endif %}
-</div>
-<div>
-    {% if entry.pdf %}
-    <span><a href="{{ entry.pdf }}">pdf</a></span>
-    {% endif %}
-</div>
+<pre>{{ entry.bibtex }}</pre>
 
-<div><pre>{{ entry.bibtex }}</pre></div>
+<!-- {{replace_first: 'Beraldo e Silva L', '<b>BeS L</b>'}} -->
+<!-- <style>ol.bibliography li { list-style: none }</style> -->
