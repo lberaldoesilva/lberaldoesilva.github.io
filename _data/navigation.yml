@@ -6,8 +6,8 @@ main:
   - title: "Research highlights"
     url: /research/
  
-  - title: "Codes"
-    url: /codes/
+  - title: "Code"
+    url: /code/
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -23,6 +23,9 @@ main:
     
   - title: "CV"
     url: /cv/
+
+  - title: "Contact"
+    url: /contact/
     
 #  - title: "Guide"
 #    url: /markdown/

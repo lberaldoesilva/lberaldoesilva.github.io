@@ -88,7 +88,7 @@ author:
 #  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
 #  googlescholar    : "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22beraldo-e-silva%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
   ads		   : "https://ui.adsabs.harvard.edu/search/q=%20author%3A%22beraldo-e-silva%22&sort=date%20desc%2C%20bibcode%20desc&p_=0"
-  email            :
+  email            : lberaldoesilva@arizona.edu
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
