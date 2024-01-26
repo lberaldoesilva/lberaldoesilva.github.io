@@ -312,19 +312,24 @@ compress_html:
   clippings: all
   ignore:
     envs: development
+    
 scholar:
-  style: current-opinion
+#  style: current-opinion
+  style: _bibliography/current-opinion_leandro.csl
   locale: en
 
   sort_by: none
   order: descending
-  bibliography_template: "{{reference | replace_first: 'Beraldo e Silva L', '<b>Beraldo e Silva L</b>'}}"
+#  bibliography_template: "{{reference | replace_first: 'Beraldo e Silva L', '<b>Beraldo e Silva L</b>'}}"
+  bibliography_template: bib # bib.html file in _layouts/
 
   group_by: none
   group_order: ascending
 
   source: ./_bibliography
   bibliography: references.bib
+  bibliography_list_attributes:
+    reversed: "reversed"
 
   replace_strings: true
   join_strings:    true
