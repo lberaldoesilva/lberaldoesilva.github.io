@@ -1,0 +1,13 @@
+---
+---
+<div class="text-justify">
+<a href="{{ entry.adsurl }}">{{entry.title}}</a>
+</div>
+<!-- <div> -->
+<!--   <\!-- {% if entry.doi %} -\-> -->
+<!--   <\!-- <span><a href="{{ entry.doi | prepend: 'http://doi.org/' }}">doi</a></span> -\-> -->
+<!--   <\!-- {% endif %} -\-> -->
+<!--   {% if entry.adsurl %} -->
+<!--   <a href="{{ entry.adsurl }}">ads</a> -->
+<!--   {% endif %} -->
+<!-- </div> -->

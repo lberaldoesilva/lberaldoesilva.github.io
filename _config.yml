@@ -320,16 +320,15 @@ scholar:
 
   sort_by: none
   order: descending
-#  bibliography_template: "{{reference | replace_first: 'Beraldo e Silva L', '<b>Beraldo e Silva L</b>'}}"
-  bibliography_template: bib # bib.html file in _layouts/
-
   group_by: none
   group_order: ascending
 
   source: ./_bibliography
   bibliography: references.bib
+  bibliography_template: bib # bib.html file in _layouts/
   bibliography_list_attributes:
     reversed: "reversed"
+#  relative: "/_bibliography/references.bib"
 
   replace_strings: true
   join_strings:    true
@@ -337,7 +336,7 @@ scholar:
   use_raw_bibtex_entry: false
 
   details_dir:    bibliography
-  details_layout: bibtex.html
+  details_layout: detail.html
   details_link:   Details
 
   query: "@*"
