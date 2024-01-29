@@ -50,6 +50,20 @@ author_profile: true
 <div id="div-grey">
   <!-- <p id="img-text"> -->
   <p>
+    <img id="img" src="/images/2022_Khachaturyants_fig6.png"/>
+    {% capture _title %}
+    {%-reference Khachaturyants2022 --style /_bibliography/paper-title.csl-%}
+    {% endcapture %}
+    <a href="https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.3500K">{{_title}}</a><br>
+	Where we show that prograde bending waves in galactic discs can be produced by misaligned gas accretion, and that this is a possible source of vertical perturbations in the Milky Way disc.
+  </p>
+  <p id="img-caption"></p>
+</div>
+<!-- -------------------------------------------------- -->
+
+<div id="div-grey">
+  <!-- <p id="img-text"> -->
+  <p>
     <img id="img" src="/images/2021_BeS_fig1.png"/>
     {% capture _title %}
     {%-reference BeS2021 --style /_bibliography/paper-title.csl-%}
