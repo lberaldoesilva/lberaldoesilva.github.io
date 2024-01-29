@@ -10,10 +10,12 @@ html {
   background-color: $background-color;
   // Leandro
   // font-size: 16px;
-  font-size: 10px;
+  font-size: 12px;
 
   @include breakpoint($medium) {
-    font-size: 18px;
+    // Leandro
+      // font-size: 18px;
+      font-size: 14px;
   }
 
   -webkit-text-size-adjust: 100%;
