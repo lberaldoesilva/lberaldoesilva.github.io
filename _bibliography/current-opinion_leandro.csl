@@ -68,7 +68,9 @@
   <macro name="volume-page">
     <choose>
       <if variable="volume">
-        <text variable="volume" font-weight="bold"/>
+	<!-- Leandro: -->
+        <!-- <text variable="volume" font-weight="bold"/> -->
+	<text variable="volume"/>
         <text variable="page" prefix=":"/>
       </if>
       <else-if variable="DOI">
