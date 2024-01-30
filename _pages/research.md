@@ -50,6 +50,20 @@ author_profile: true
 <div id="div-grey">
   <!-- <p id="img-text"> -->
   <p>
+    <img id="img" src="/images/2023_Wheeler_fig1.png"/>
+    {% capture _title %}
+    {%-reference Wheeler2023 --style /_bibliography/paper-title.csl-%}
+    {% endcapture %}
+    <a href="https://ui.adsabs.harvard.edu/abs/2023ApJ...958..119W">{{_title}}</a><br>
+	Where we show that galactic bars can grow and be stable around black holes.
+  </p>
+  <p id="img-caption"></p>
+</div>
+<!-- -------------------------------------------------- -->
+
+<div id="div-grey">
+  <!-- <p id="img-text"> -->
+  <p>
     <img id="img" src="/images/2022_Khachaturyants_fig6.png"/>
     {% capture _title %}
     {%-reference Khachaturyants2022 --style /_bibliography/paper-title.csl-%}
