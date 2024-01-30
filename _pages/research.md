@@ -39,7 +39,7 @@ author_profile: true
   <a
   href="https://ui.adsabs.harvard.edu/abs/2023ApJ...955...38B">{{_title}}</a><br>
   Where we show the important role of resonances in shaping features
-  in galactic bars, in the transition between their flat parts to
+  in galactic bars, in the transition between their flat parts and
   box-peanut bulges.  </p> <p id="img-caption"></p> </div> <!--
   -------------------------------------------------- -->
 
@@ -96,7 +96,7 @@ author_profile: true
   Where we show that the collisionless relexation time $\propto
   N^{1/6}$ (see below) is a consequence of the Nyquist-Shannon theorem
   for a 6D phase-space. A finite-$N$ system can develop fine
-  structures in phase-space up to a certain limit, but not smaller.
+  phase-space structures up to a certain limit, but not smaller.
   <!-- Over time, the system develops fine phase-space structures, but
   only up to a limit scale $\lambda\propto N^{-1/d}$, after which
   phase-space degrades and finer structures are precluded. This is
