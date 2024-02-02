@@ -68,12 +68,12 @@ author_profile: true
   BeS2021 --style /_bibliography/paper-title.csl-%} {% endcapture %}
   <a
   href="https://ui.adsabs.harvard.edu/abs/2021MNRAS.502..260B">{{_title}}</a><br>
-  Where we show that a large population of old stars in the Milky Way
-  produce three peaks in the distribution of pericentric
-  distances. The outermost peak ($r_\mathrm{per}\approx 7$ kpc) is
-  produced by radial migration of thin and thick disc stars.  </p> <p
-  id="img-caption"></p> </div> <!--
-  -------------------------------------------------- -->
+  Where we find evidence for an old thin disc in the Milky Way, and
+  show that a large population of old stars produce three peaks in the
+  distribution of pericentric distances. The outermost peak
+  ($r_\mathrm{per}\approx 7$ kpc) is produced by radial migration of
+  thin and thick disc stars.  </p> <p id="img-caption"></p> </div>
+  <!-- -------------------------------------------------- -->
 
 
 <div id="div-grey"> <!-- <p id="img-text"> --> <p> <img id="img"
