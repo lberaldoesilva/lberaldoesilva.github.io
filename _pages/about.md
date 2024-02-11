@@ -19,6 +19,6 @@ of massive clumps in the early evolution of disk galaxies, the Milky
 Way’s merger history, galactic seismology, and the orbital support and
 evolution of galactic bars. I am co-chair of the <a
 href="https://www.desi.lbl.gov/the-desi-survey/">DESI</a> Milky Way
-Survey. My main current interests are on the Milky Way's dark matter
-halo shape, the role of resonances in shaping stellar populations in
-the Galaxy, and the merger history of Andromeda. </div>
+working group. My main current interests are on the Milky Way's dark
+matter halo shape, the role of resonances in shaping stellar
+populations in the Galaxy, and the merger history of Andromeda. </div>
