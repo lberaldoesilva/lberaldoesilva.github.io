@@ -5,5 +5,5 @@ permalink: /contact/
 author_profile: true
 ---
 
-* email: lberaldoesilva [at] arizona.edu
-* address: 933 N Cherry Ave, Tucson, AZ 85719
+* email: lberaldoesilva [at] on.br
+* address: Observatório Nacional, R. Gen. José Cristino, 77 - Rio de Janeiro, RJ, Brasil

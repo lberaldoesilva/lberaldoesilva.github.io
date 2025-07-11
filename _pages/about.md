@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-<div style="text-align: justify"> I am a Research Associate at the <a
-href="https://www.as.arizona.edu/">Department of Astronomy and Steward
-Observatory</a> at the <a href="https://www.arizona.edu/">University
-of Arizona</a>. My research is focused on galactic dynamics and I have
+<div style="text-align: justify"> I am an Associate Researcher
+(Pesquisador Adjunto) at <a
+href="https://www.gov.br/observatorio/pt-br">Observatório Nacional</a>
+(Brasil). My research is focused on galactic dynamics and I have
 worked on the interface between theoretical modelling, N-body
 simulations, and observational data. Specific topics include
 collisionless relaxation processes of gravitational systems, the role
