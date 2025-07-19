@@ -127,7 +127,7 @@ espesso. <div style="clear: both;"></div>
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
-  src="/figs/2019b_BeS_fig1.png" width="500" alt=""> </figure>
+  src="/figs/2019b_BeS_fig1.png" width="480" alt=""> </figure>
   
   por Beraldo e Silva et al. (2019), onde mostramos que o tempo de
 relaxação não-colisional $N1/6\propto N^{1/6}\tau_\mathrm{cr}$ (veja
@@ -145,7 +145,7 @@ da suposição $N\rightarrow \infty$ na equação de Vlasov.
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: left; margin: 0px 15px 0px 0px;"> <img
-  src="/figs/2019a_BeS_fig6.png" width="550" alt=""> </figure>
+  src="/figs/2019a_BeS_fig6.png" width="500" alt=""> </figure>
   
   por Beraldo e Silva et al. (2019), onde investigamos a evolução
 macroscópica de conjuntos de órbitas em potenciais integráveis e
@@ -162,7 +162,7 @@ não-colisional é $\propto N^{1/6} \tau_\mathrm{cr}$ ou menor.
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
-  src="/figs/2017_BeS_fig4.png" width="580" alt=""> </figure>
+  src="/figs/2017_BeS_fig4.png" width="500" alt=""> </figure>
   
   por Beraldo e Silva et al. (2017), onde investigamos a evolução
   macroscópica de sistemas auto-gravitantes com estimadores de
@@ -178,7 +178,7 @@ não-colisional é $\propto N^{1/6} \tau_\mathrm{cr}$ ou menor.
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: left; margin: 0px 15px 0px 0px;"> <img
-  src="/figs/2014_BeS_fig4.png" width="550" alt=""> </figure>
+  src="/figs/2014_BeS_fig4.png" width="500" alt=""> </figure>
   
   por Beraldo e Silva et al. (2014), onde associamos o nível de
   mistura de partículas no espaço de fases à sua
@@ -195,7 +195,7 @@ não-colisional é $\propto N^{1/6} \tau_\mathrm{cr}$ ou menor.
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
-  src="/figs/2013_BeS_fig6.png" width="540" alt=""> </figure>
+  src="/figs/2013_BeS_fig6.png" width="500" alt=""> </figure>
   
   por Beraldo e Silva et al. (2013), onde mostramos a importância de
   contribuições de grande escala (cosmológicas) nos perfis de

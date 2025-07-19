@@ -124,7 +124,7 @@ translationKey: "highlights"
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
-  src="/figs/2019b_BeS_fig1.png" width="500" alt=""> </figure>
+  src="/figs/2019b_BeS_fig1.png" width="480" alt=""> </figure>
   
   by Beraldo e Silva et al. (2019), where we show that the
   collisionless relexation time $\propto N^{1/6}$ (see below) is a
@@ -141,7 +141,7 @@ translationKey: "highlights"
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: left; margin: 0px 15px 0px 0px;"> <img
-  src="/figs/2019a_BeS_fig6.png" width="550" alt=""> </figure>
+  src="/figs/2019a_BeS_fig6.png" width="500" alt=""> </figure>
   
   by Beraldo e Silva et al. (2019), where we investigate the
   macroscopic evolution of orbit ensembles in integrable and
@@ -158,7 +158,7 @@ translationKey: "highlights"
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
-  src="/figs/2017_BeS_fig4.png" width="580" alt=""> </figure>
+  src="/figs/2017_BeS_fig4.png" width="500" alt=""> </figure>
   
   by Beraldo e Silva et al. (2017), where we investigate the
   macroscopic evolution of self-gravitating systems with entropy
@@ -174,7 +174,7 @@ translationKey: "highlights"
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: left; margin: 0px 15px 0px 0px;"> <img
-  src="/figs/2014_BeS_fig4.png" width="550" alt=""> </figure>
+  src="/figs/2014_BeS_fig4.png" width="500" alt=""> </figure>
   
   by Beraldo e Silva et al. (2014), where we associate the mixing
   level of particles in phase-space to their
@@ -191,7 +191,7 @@ translationKey: "highlights"
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
-  src="/figs/2013_BeS_fig6.png" width="540" alt=""> </figure>
+  src="/figs/2013_BeS_fig6.png" width="500" alt=""> </figure>
   
   by Beraldo e Silva et al. (2013), where we show the importance of
   large-scale (cosmological) contributions in the density profiles of
