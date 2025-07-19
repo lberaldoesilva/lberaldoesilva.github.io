@@ -656,10 +656,8 @@ footer {
 .content-wrapper .highlights {
   /* max-width: 800ch; */
   /* margin: 0 auto; */
-    /* width: 125%; */
-    /* transform: translateX(-12.5%); */
-    width: 100%;
-    transform: translateX(0%);
+    width: 125%;
+    transform: translateX(-12.5%);
 }
 
 
