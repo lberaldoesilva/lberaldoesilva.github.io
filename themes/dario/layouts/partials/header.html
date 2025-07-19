@@ -1,0 +1,45 @@
+<header>
+    <div>
+        <h1>
+            <a href="{{ .Site.BaseURL }}">{{ .Site.Title | safeHTML }}</a>
+        </h1>
+        <div class="header-controls">
+            <div class="toggle-switch">
+                <input
+                    type="checkbox"
+                    id="darkModeToggle"
+                    class="toggle-input"
+                    aria-label="Toggle dark mode"
+                />
+                <label for="darkModeToggle" class="toggle-label">
+                    <span class="toggle-slider"></span>
+                </label>
+            </div>
+
+            <!-- Language switch: PT | EN -->
+            <div class="lang-switch">
+              {{ $site := .Site }}
+              {{ range $site.Languages }}
+                {{ if eq $.Site.Language.Lang .Lang }}
+                  <strong>{{ upper .Lang }}</strong>
+                {{ else }}
+                  {{ $translated := false }}
+                  {{ range $.Translations }}
+                    {{ if eq .Lang .Lang }}
+                      {{ $translated = . }}
+                    {{ end }}
+                  {{ end }}
+                  {{ if $translated }}
+                    <a href="{{ $translated.RelPermalink }}">{{ upper .Lang }}</a>
+                  {{ else }}
+		    <a href="{{ "/" | relLangURL }}">{{ upper .Lang }}</a>
+                  {{ end }}
+                {{ end }}
+                {{ if not (eq .Lang (index (last 1 $site.Languages) 0).Lang) }}
+                  <span> | </span>
+                {{ end }}
+              {{ end }}
+            </div>
+        </div>
+    </div>
+</header>

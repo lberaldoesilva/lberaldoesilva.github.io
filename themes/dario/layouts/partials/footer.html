@@ -1,0 +1,14 @@
+<!-- <footer> -->
+<!--     <div class="footer-content"> -->
+<!--         <p>&copy; {{ now.Year }} - {{ .Site.Title }}</p> -->
+<!--     </div> -->
+<!-- </footer> -->
+
+
+<footer>
+  <div class="footer-content">
+    {{- with site.Params.Author }}
+    <p>&copy; {{ now.Year }} - {{ . }}</p>
+    {{- end }}
+    </div>
+</footer>

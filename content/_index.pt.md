@@ -1,0 +1,61 @@
+---
+title: "Leandro Beraldo e Silva"
+---
+
+<style>
+h1:first-of-type {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+main h1:first-of-type::before {
+  content: "";
+  width: 150px;
+  height: 150px;
+  background-image: url('/figs/Photo_leandro_zoom.jpg');
+  background-size: cover;
+  background-position: center;
+  border-radius: 50%;
+  flex-shrink: 0;
+}
+</style>
+
+Sou Pesquisador Adjunto no [Observatório
+Nacional](https://www.gov.br/observatorio/pt-br) (ON, Brasil).  
+Antes de ingressar no ON (em 2025), fiz pós-doutorado no Steward
+Observatory (University of Arizona, EUA), na University of Michigan
+(EUA), na University of Central Lancashire (Inglaterra) e na
+Universidade de São Paulo (USP, Brasil). Obtive meu doutorado na USP,
+durante o qual passei um ano trabalhando no Institut d'Astrophysique
+de Paris (França). Também concluí minha graduação na USP.
+
+Minha pesquisa é focada em dinâmica galáctica e na estrutura e
+evolução de galáxias, na interface entre modelagem teórica, simulações
+de N-corpos e dados observacionais.
+
+Entre os tópicos que investiguei estão: processos de relaxação em
+sistemas gravitacionais não-colisionais, o papel de "clumps" massivos
+na evolução inicial de galáxias espirais, os eventos de acreção da Via
+Láctea, sismologia galáctica e o suporte orbital e evolução de barras
+galácticas.
+
+Atualmente, meus interesses estão centrados nas propriedades do halo
+de matéria escura da Via Láctea, no papel das ressonâncias na
+estruturação das populações estelares da Galáxia e nos eventos de
+acreção da galáxia de Andrômeda.
+
+Atualmente coordeno o grupo de trabalho da Via Láctea na colaboração
+[DESI](https://www.desi.lbl.gov/) — consulte os [catálogos estelares
+do DESI-MWS
+DR1](https://data.desi.lbl.gov/doc/releases/dr1/#milky-way-survey-mws),
+com velocidades radiais, abundâncias químicas, parâmetros
+atmosféricos, distâncias etc.
+
+Contato: lberaldoesilva@on.br  
+Alguns [destaques de pesquisa](/highlights/).  
+Meu [github](https://github.com/lberaldoesilva).  
+[Códigos](/codes/) que escrevi.  
+Uma [lista](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22beraldo-e-silva%22&sort=date%20desc%2C%20bibcode%20desc) das minhas publicações.  
+Uma [lista](https://ui.adsabs.harvard.edu/search/p_=0&q=pos(author%3A%22beraldo-e-silva%22%2C1%2C5)&sort=date%20desc%2C%20bibcode%20desc) das publicações em que estou entre os primeiros autores.  
+Meu [currículo Lattes](http://lattes.cnpq.br/7014346817403033).

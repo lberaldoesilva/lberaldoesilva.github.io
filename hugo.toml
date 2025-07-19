@@ -1,0 +1,42 @@
+baseURL = 'https://lberaldoesilva.github.io/'
+languageCode = 'en-us'
+title = 'Home (day/night)'
+
+theme = "dario"
+
+[params]
+#  customCSS = ["css/custom.css"]
+  author = "Leandro Beraldo e Silva" # the author of the site
+  description = "Leandro Beraldo e Silva personal website" # a description of your site that will be used in the meta tags
+
+  [params.homeInfoParams]
+    Title = "" # the text to display on the "/" homepage
+#    Content = "I'm an Associate Researcher at [Observatório Nacional](https://www.gov.br/observatorio/pt-br) (Brasil).<br> My research focuses on galactic dynamics, working at the interface of theoretical modelling, N-body simulations, and observational data. Specific topics I have investigated include collisionless relaxation processes of gravitational systems, the role of massive clumps in the early evolution of disk galaxies, the Milky Way’s merger history, galactic seismology, and the orbital support and evolution of galactic bars. I also currently serve as co-chair of the DESI Milky Way working group. My main current interests center on the shape of the Milky Way's dark matter halo, the role of resonances in shaping stellar populations in the Galaxy, and the merger history of Andromeda."
+    Description = "A minimal web log." # The description of the home page that will be used in the open graph meta tags
+
+
+[markup]
+  [markup.goldmark]
+    [markup.goldmark.renderer]
+      unsafe = true
+
+
+
+
+
+
+defaultContentLanguage = "en"
+defaultContentLanguageInSubdir = false
+
+[languages]
+  [languages.en]
+    languageName = "English"
+    weight = 1
+    title = 'Home &nbsp;&nbsp;&nbsp; &nbsp; &nbsp;(day/night)'
+  [languages.pt]
+    languageName = "Português"
+    weight = 2
+    title = 'Início &nbsp;&nbsp;&nbsp; &nbsp;&nbsp; &nbsp;(dia/noite)'
+
+# Content organization
+contentDir = 'content'

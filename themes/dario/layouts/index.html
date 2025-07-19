@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body>
+  {{ partial "header.html" . }}
+  
+  <main class="content-wrapper">
+    <article class="content-container">
+      <!-- {{- with site.Params.homeInfoParams }} -->
+      <!-- <section> -->
+        <!--     <h1 class="smaller">{{ .Title | markdownify }}</h1> -->
+        <!--     <p>{{ .Content | markdownify }}</p> -->
+        <!--     <p>{{ .SubContent | markdownify }}</p> -->
+        <!-- </section> -->
+      <!-- {{- end }} -->
+      
+      <!-- {{- with site.Params.homeInfoParams.title }} -->
+      <!-- <h1 class="smaller">{{ . | markdownify }}</h1> -->
+      <!-- {{- end }} -->
+      <h1 class="smaller">{{ .Title }}</h1>
+      <section>
+	{{ .Content }}
+      </section>
+      
+      <!-- <section> -->
+      <!--   <h2>Research highlights</h2> -->
+      <!--   <ul> -->
+      <!-- 	  <\!-- Leandro - begin: -\-> -->
+      <!--     {{/* range .Site.RegularPages */}} -->
+       	  {{/* range where .Site.RegularPages "Section" "highlights" */}}
+      <!-- 	  <\!-- Leandro - end -\-> -->
+      <!--     <li> -->
+      <!--       <a href="{{ .Permalink }}">{{ .Title }}</a> -->
+      <!--     </li> -->
+          {{/* end */}}
+      <!--   </ul> -->
+      <!-- </section> -->
+
+      {{ partial "footer.html" . }}
+    </article>
+  </main>
+  
+</body>
+
+</html>

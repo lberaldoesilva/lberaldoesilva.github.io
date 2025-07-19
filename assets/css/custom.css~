@@ -1,0 +1,22 @@
+.navbar-brand {
+  max-width: none !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+  white-space: normal !important;
+  flex: initial !important;
+}
+
+.navbar-item {
+  max-width: none !important;
+  overflow: visible !important;
+  text-overflow: unset !important;
+  white-space: normal !important;
+}
+
+.navbar-start {
+  flex-shrink: 0 !important;
+}
+
+.navbar {
+  flex-wrap: wrap !important;
+}

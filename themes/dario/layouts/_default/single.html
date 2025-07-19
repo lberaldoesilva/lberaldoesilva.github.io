@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+
+{{ partial "head.html" . }}
+
+<body>
+
+    {{ partial "header.html" . }}
+
+    <main class="content-wrapper">
+        <article class="content-container">
+            <h1>{{ .Title }}</h1>
+            <h4>{{ .Params.description }}</h4>
+            <!-- <p class="author-date"> -->
+            <!--     <time datetime="{{ .Date }}">{{ .Date.Format "January 2, 2006" }}</time> -->
+            <!-- </p> -->
+
+            {{- if not (.Param "disableAnchoredHeadings") }}
+            {{- partial "anchored_headings.html" .Content -}}
+            {{- else }}{{ .Content }}{{ end }}
+        </article>
+    </main>
+
+    {{ partial "footer.html" . }}
+<!-- <script> -->
+<!--   document.addEventListener("DOMContentLoaded", function () { -->
+<!--     const langLinks = document.querySelectorAll(".lang-switch a"); -->
+
+<!--     langLinks.forEach(link => { -->
+<!--       link.addEventListener("click", function (event) { -->
+<!--         event.preventDefault(); -->
+
+<!--         const targetLang = this.dataset.lang; // get "pt" or "en" -->
+<!--         const pathParts = window.location.pathname.split("/").filter(Boolean); // e.g., ["en", "foo"] -->
+
+<!--         // Remove current language prefix -->
+<!--         if (["pt", "en"].includes(pathParts[0])) { -->
+<!--           pathParts.shift(); -->
+<!--         } -->
+
+<!--         const newPath = "/" + targetLang + "/" + pathParts.join("/"); -->
+<!--         window.location.href = newPath; -->
+<!--       }); -->
+<!--     }); -->
+<!--   }); -->
+<!-- </script> -->
+
+
+</body>
+
+</html>

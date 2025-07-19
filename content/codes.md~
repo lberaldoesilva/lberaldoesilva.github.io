@@ -1,0 +1,9 @@
+---
+title: "Codes"
+translationKey: /codes/
+---
+
+* [naif](https://naif.readthedocs.io/en/latest/index.html): numerical analysis and integer combinations of frequencies. It performs frequency analysis of any time-series, in particular for orbits integrated in a potential.
+* [tropygal](https://tropygal.readthedocs.io/en/latest/): entropy estimators for galactic dynamics. To estimate the differential entropy in general, and in specific galactic dynamics models.
+* [Silverman test](https://github.com/lberaldoesilva/silverman-test): simple code to check statistical evidence for more than k peaks.
+
