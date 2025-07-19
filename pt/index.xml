@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Leandro Beraldo e Silva on Início &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp;(dia/noite)</title><link>https://lberaldoesilva.github.io/pt/</link><description>Recent content in Leandro Beraldo e Silva on Início &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp;&amp;nbsp; &amp;nbsp;(dia/noite)</description><generator>Hugo</generator><language>pt</language><atom:link href="https://lberaldoesilva.github.io/pt/index.xml" rel="self" type="application/rss+xml"/><item><title>Códigos</title><link>https://lberaldoesilva.github.io/pt/codes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lberaldoesilva.github.io/pt/codes/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://naif.readthedocs.io/en/latest/index.html">naif&lt;/a>: numerical
+analysis and integer combinations of frequencies. Realiza análise de
+frequências de qualquer série temporal, em particular para órbitas
+integradas em um potencial.&lt;/li>
+&lt;li>&lt;a href="https://tropygal.readthedocs.io/en/latest/">tropygal&lt;/a>: estimadores
+de entropia para dinâmica galáctica. Para estimar a entropia
+diferencial em geral, e em modelos específicos de dinâmica
+galáctica.&lt;/li>
+&lt;li>&lt;a href="https://github.com/lberaldoesilva/silverman-test">Silverman test&lt;/a>:
+código simples para testar a evidência estatística para mais de k
+picos.&lt;/li>
+&lt;/ul></description></item><item><title>Pesquisa</title><link>https://lberaldoesilva.github.io/pt/highlights/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lberaldoesilva.github.io/pt/highlights/</guid><description>&lt;div class="highlights">
+&lt;!-- &lt;div id="div-grey"> &lt;\!-- &lt;p id="img-text"> -\-> &lt;p> &lt;img id="img" -->
+&lt;!-- src="https://lberaldoesilva.github.io/figs/2023_BeS_fig6.png"/> {% capture _title %} {%-reference -->
+&lt;!-- BeS2023 --style /_bibliography/paper-title.csl-%} {% endcapture %} -->
+&lt;!-- &lt;a -->
+&lt;!-- href="https://ui.adsabs.harvard.edu/abs/2023ApJ...955...38B">{{_title}}&lt;/a>&lt;br> -->
+&lt;!-- Where we show the important role of resonances in shaping features -->
+&lt;!-- in galactic bars, in the transition between their flat parts and -->
+&lt;!-- box-peanut bulges. &lt;/figure> &lt;p id="img-caption">&lt;/figure> &lt;/div> &lt;\!-- -->
+&lt;!-- -------------------------------------------------- -\-> -->
+&lt;div class="header-left">
+&lt;h3 id="minimum-entropy-constraints-on-galactic-potentials">&lt;a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240707947B/abstract">Minimum-entropy constraints on galactic potentials&lt;/a>,&lt;/h3>
+&lt;/div>
+&lt;!-- Margins: TOP RIGHT BOTTOM LEFT -->
+&lt;figure style="float: right; margin: 0px 0px 0px 15px;"> &lt;img
+ src="https://lberaldoesilva.github.io/figs/2025_BeS_fig11.png" width="500" alt=""> &lt;/figure>
+&lt;p>por Beraldo e Silva et al. (2025), onde usamos as coordenadas de uma
+amostra estelar em equilíbrio em um dado potencial para restringir
+esse potencial, sem modelar explicitamente a função de distribuição
+da amostra. Isso é feito minimizando-se a entropia que a amostra
+alcançaria se fosse liberada para evoluir via &amp;ldquo;phase-mixing&amp;rdquo; em
+potenciais-teste, já que o phase-mixing aumentaria a entropia da
+amostra. Em particular, usando $10^4$ partículas traçadoras com incertezas de
+10% em suas coordenadas, recuperamos o parâmetro de achatamento
+$q$ de um potencial axisimétrico com $\sigma_q/q \sim 5$%.&lt;/p></description></item></channel></rss>

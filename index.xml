@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?><rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom"><channel><title>Leandro Beraldo e Silva on Home &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;(day/night)</title><link>https://lberaldoesilva.github.io/</link><description>Recent content in Leandro Beraldo e Silva on Home &amp;nbsp;&amp;nbsp;&amp;nbsp; &amp;nbsp; &amp;nbsp;(day/night)</description><generator>Hugo</generator><language>en</language><atom:link href="https://lberaldoesilva.github.io/index.xml" rel="self" type="application/rss+xml"/><item><title>Codes</title><link>https://lberaldoesilva.github.io/codes/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lberaldoesilva.github.io/codes/</guid><description>&lt;ul>
+&lt;li>&lt;a href="https://naif.readthedocs.io/en/latest/index.html">naif&lt;/a>: numerical analysis and integer combinations of frequencies. It performs frequency analysis of any time-series, in particular for orbits integrated in a potential.&lt;/li>
+&lt;li>&lt;a href="https://tropygal.readthedocs.io/en/latest/">tropygal&lt;/a>: entropy estimators for galactic dynamics. To estimate the differential entropy in general, and in specific galactic dynamics models.&lt;/li>
+&lt;li>&lt;a href="https://github.com/lberaldoesilva/silverman-test">Silverman test&lt;/a>: simple code to check statistical evidence for more than k peaks.&lt;/li>
+&lt;/ul></description></item><item><title>Research highlights</title><link>https://lberaldoesilva.github.io/highlights/</link><pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate><guid>https://lberaldoesilva.github.io/highlights/</guid><description>&lt;div class="highlights">
+&lt;!-- &lt;div id="div-grey"> &lt;\!-- &lt;p id="img-text"> -\-> &lt;p> &lt;img id="img" -->
+&lt;!-- src="https://lberaldoesilva.github.io/figs/2023_BeS_fig6.png"/> {% capture _title %} {%-reference -->
+&lt;!-- BeS2023 --style /_bibliography/paper-title.csl-%} {% endcapture %} -->
+&lt;!-- &lt;a -->
+&lt;!-- href="https://ui.adsabs.harvard.edu/abs/2023ApJ...955...38B">{{_title}}&lt;/a>&lt;br> -->
+&lt;!-- Where we show the important role of resonances in shaping features -->
+&lt;!-- in galactic bars, in the transition between their flat parts and -->
+&lt;!-- box-peanut bulges. &lt;/figure> &lt;p id="img-caption">&lt;/figure> &lt;/div> &lt;\!-- -->
+&lt;!-- -------------------------------------------------- -\-> -->
+&lt;div class="header-left">
+&lt;h3 id="minimum-entropy-constraints-on-galactic-potentials">&lt;a href="https://ui.adsabs.harvard.edu/abs/2024arXiv240707947B/abstract">Minimum-entropy constraints on galactic potentials&lt;/a>,&lt;/h3>
+&lt;/div>
+&lt;!-- Margins: TOP RIGHT BOTTOM LEFT -->
+&lt;figure style="float: right; margin: 0px 0px 0px 15px;"> &lt;img
+ src="https://lberaldoesilva.github.io/figs/2025_BeS_fig11.png" width="500" alt=""> &lt;/figure>
+&lt;p>by Beraldo e Silva et al. (2025), where we use the coordinates of a
+stellar sample in equilibrium within a given potential to constrain
+that potential, but without explicitly modelling the sample&amp;rsquo;s
+distribution function. This is achieved by minimizing the entropy
+the sample would reach if it were allowed to phase-mix in trial
+potentials, since phase-mixing would increase the sample&amp;rsquo;s
+entropy. In particular, using $10^4$ tracers with 10%-uncertainties
+in their 6D coordinates, we recover the flattening parameter $q$ of
+an axisymmetric potential with $\sigma_q/q\sim 5$%. &lt;div
+style="clear: both;">&lt;/div>&lt;/p></description></item></channel></rss>
