@@ -9,7 +9,7 @@ translationKey: "highlights"
 <!--   src="/figs/2023_BeS_fig6.png"/> {% capture _title %} {%-reference -->
 <!--   BeS2023 --style /_bibliography/paper-title.csl-%} {% endcapture %} -->
 <!--   <a -->
-<!--   href="https://ui.adsabs.harvard.edu/abs/2023ApJ...955...38B">{{_title}}</a><br> -->
+<!--   href="https://scixplorer.org/abs/2023ApJ...955...38B">{{_title}}</a><br> -->
 <!--   Where we show the important role of resonances in shaping features -->
 <!--   in galactic bars, in the transition between their flat parts and -->
 <!--   box-peanut bulges.  </figure> <p id="img-caption"></figure> </div> <\!-- -->
@@ -17,7 +17,7 @@ translationKey: "highlights"
 
 <div class="header-left">
 
-### [Minimum-entropy constraints on galactic potentials](https://ui.adsabs.harvard.edu/abs/2024arXiv240707947B/abstract),
+### [Minimum-entropy constraints on galactic potentials](https://scixplorer.org/abs/2024arXiv240707947B/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
@@ -37,7 +37,7 @@ translationKey: "highlights"
 ---
 <div class="header-right">
 
-### [Orbital Support and Evolution of Flat Profiles of Bars (Shoulders)](https://ui.adsabs.harvard.edu/abs/2023ApJ...955...38B/abstract),
+### [Orbital Support and Evolution of Flat Profiles of Bars (Shoulders)](https://scixplorer.org/abs/2023ApJ...955...38B/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: left; margin: 0px 15px 0px 0;">
@@ -62,7 +62,7 @@ translationKey: "highlights"
 ---
 <div class="header-left">
 
-### [Early-growing Supermassive Black Holes Strengthen Bars and Boxy/Peanut Bulges](https://ui.adsabs.harvard.edu/abs/2023ApJ...958..119W/abstract),
+### [Early-growing Supermassive Black Holes Strengthen Bars and Boxy/Peanut Bulges](https://scixplorer.org/abs/2023ApJ...958..119W/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
@@ -76,7 +76,7 @@ translationKey: "highlights"
 ---
 <div class="header-center">
 
-### [Bending waves excited by irregular gas inflow along warps](https://ui.adsabs.harvard.edu/abs/2022MNRAS.512.3500K/abstract),
+### [Bending waves excited by irregular gas inflow along warps](https://scixplorer.org/abs/2022MNRAS.512.3500K/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: center; margin: 0px 15px 0px 0;"> <img
@@ -91,7 +91,7 @@ translationKey: "highlights"
 ---
 <div class="header-left">
 
-### [Co-formation of the thin and thick discs revealed by APOGEE-DR16 and Gaia-DR2](https://ui.adsabs.harvard.edu/abs/2021MNRAS.502..260B/abstract),
+### [Co-formation of the thin and thick discs revealed by APOGEE-DR16 and Gaia-DR2](https://scixplorer.org/abs/2021MNRAS.502..260B/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
@@ -107,7 +107,7 @@ espesso. <div style="clear: both;"></div>
 ---
 <div class="header-center">
 
-### [Geometric properties of galactic discs with clumpy episodes](https://ui.adsabs.harvard.edu/abs/2020MNRAS.492.4716B/abstract),
+### [Geometric properties of galactic discs with clumpy episodes](https://scixplorer.org/abs/2020MNRAS.492.4716B/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: center; margin: 0px 15px 0px 0px;"> <img
@@ -123,7 +123,7 @@ espesso. <div style="clear: both;"></div>
 ---
 <div class="header-left">
 
-### [The Discreteness-driven Relaxation of Collisionless Gravitating Systems: Entropy Evolution and the Nyquist-Shannon Theorem](https://ui.adsabs.harvard.edu/abs/2019ApJ...872...20B/abstract),
+### [The Discreteness-driven Relaxation of Collisionless Gravitating Systems: Entropy Evolution and the Nyquist-Shannon Theorem](https://scixplorer.org/abs/2019ApJ...872...20B/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
@@ -141,7 +141,7 @@ da suposição $N\rightarrow \infty$ na equação de Vlasov.
 ---
 <div class="header-right">
 
-### [The Discreteness-driven Relaxation of Collisionless Gravitating Systems: Entropy Evolution in External Potentials, N-dependence, and the Role of Chaos](https://ui.adsabs.harvard.edu/abs/2019ApJ...870..128B/abstract),
+### [The Discreteness-driven Relaxation of Collisionless Gravitating Systems: Entropy Evolution in External Potentials, N-dependence, and the Role of Chaos](https://scixplorer.org/abs/2019ApJ...870..128B/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: left; margin: 0px 15px 0px 0px;"> <img
@@ -158,7 +158,7 @@ não-colisional é $\propto N^{1/6} \tau_\mathrm{cr}$ ou menor.
 ---
 <div class="header-left">
 
-### [The Arrow of Time in the Collapse of Collisionless Self-gravitating Systems: Non-validity of the Vlasov-Poisson Equation during Violent Relaxation](https://ui.adsabs.harvard.edu/abs/2017ApJ...846..125B/abstract),
+### [The Arrow of Time in the Collapse of Collisionless Self-gravitating Systems: Non-validity of the Vlasov-Poisson Equation during Violent Relaxation](https://scixplorer.org/abs/2017ApJ...846..125B/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
@@ -174,7 +174,7 @@ não-colisional é $\propto N^{1/6} \tau_\mathrm{cr}$ ou menor.
 ---
 <div class="header-right">
 
-### [Statistical mechanics of self-gravitating systems: Mixing as a criterion for indistinguishability](https://ui.adsabs.harvard.edu/abs/2014PhRvD..90l3004B/abstract),
+### [Statistical mechanics of self-gravitating systems: Mixing as a criterion for indistinguishability](https://scixplorer.org/abs/2014PhRvD..90l3004B/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: left; margin: 0px 15px 0px 0px;"> <img
@@ -191,7 +191,7 @@ não-colisional é $\propto N^{1/6} \tau_\mathrm{cr}$ ou menor.
 ---
 <div class="header-left">
 
-### [Testing phenomenological and theoretical models of dark matter density profiles with galaxy clusters](https://ui.adsabs.harvard.edu/abs/2013MNRAS.436.2616B/abstract),
+### [Testing phenomenological and theoretical models of dark matter density profiles with galaxy clusters](https://scixplorer.org/abs/2013MNRAS.436.2616B/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img

@@ -56,6 +56,6 @@ Contato: lberaldoesilva@on.br
 Alguns [destaques de pesquisa](/highlights/).  
 Meu [github](https://github.com/lberaldoesilva).  
 [Códigos](/codes/) que escrevi.  
-Uma [lista](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22beraldo-e-silva%22&sort=date%20desc%2C%20bibcode%20desc) das minhas publicações.  
-Uma [lista](https://ui.adsabs.harvard.edu/search/p_=0&q=pos(author%3A%22beraldo-e-silva%22%2C1%2C5)&sort=date%20desc%2C%20bibcode%20desc) das publicações em que estou entre os primeiros autores.  
+Uma [lista](https://scixplorer.org/search/p_=0&q=%20author%3A%22beraldo-e-silva%22&sort=date%20desc%2C%20bibcode%20desc) das minhas publicações.  
+Uma [lista](https://scixplorer.org/search/p_=0&q=pos(author%3A%22beraldo-e-silva%22%2C1%2C5)&sort=date%20desc%2C%20bibcode%20desc) das publicações em que estou entre os primeiros autores.  
 Meu [currículo Lattes](http://lattes.cnpq.br/7014346817403033).

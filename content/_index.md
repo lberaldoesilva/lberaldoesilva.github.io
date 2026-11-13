@@ -53,6 +53,6 @@ Contact: lberaldoesilva@on.br
 A few [research highlights](/highlights/).  
 My [github](https://github.com/lberaldoesilva).  
 A few [codes](/codes/) I have written.  
-A full [list](https://ui.adsabs.harvard.edu/search/p_=0&q=%20author%3A%22beraldo-e-silva%22&sort=date%20desc%2C%20bibcode%20desc) of my publications.  
-A [list](https://ui.adsabs.harvard.edu/search/p_=0&q=pos(author%3A%22beraldo-e-silva%22%2C1%2C5)&sort=date%20desc%2C%20bibcode%20desc) of publications I'm among the first few authors.
+A full [list](https://scixplorer.org/search/p_=0&q=%20author%3A%22beraldo-e-silva%22&sort=date%20desc%2C%20bibcode%20desc) of my publications.  
+A [list](https://scixplorer.org/search/p_=0&q=pos(author%3A%22beraldo-e-silva%22%2C1%2C5)&sort=date%20desc%2C%20bibcode%20desc) of publications I'm among the first few authors.
 
