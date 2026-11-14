@@ -15,13 +15,49 @@ translationKey: "highlights"
 <!--   box-peanut bulges.  </figure> <p id="img-caption"></figure> </div> <\!-- -->
 <!--   -------------------------------------------------- -\-> -->
 
+
+<div class="header-right">
+
+### [The meaning of Milky Way mass estimates in the presence of the LMC](),
+</div>
+<!-- Margins: TOP RIGHT BOTTOM LEFT -->
+<figure style="float: left; margin: 0px 15px 0px 0;">
+  <img src="/figs/2027_BeS_fig8.png" width="400" alt="">
+    <!-- <figcaption style="text-align: left; font-size: 0.8em; margin-top: 0.em;"> -->
+    <!--   From Beraldo e Silva et al. (2023). -->
+    <!-- </figcaption> -->
+	</figure>
+  
+  por Beraldo e Silva et al. (2027), onde mostramos que o
+  desequilíbrio do halo estelar da Via Láctea (MW) induzido pela LMC,
+  por muito tempo visto como um obstáculo para medir a massa da
+  Galáxia, pode ser usado para restringir os perfis de massa total
+  MW+LMC, da LMC e então da MW antes da chegada da LMC. Como mostrado
+  na figura (painéis inferiores), as estrelas na região do céu cruzada
+  pela trajetória da LMC há mais tempo (octantes 7 e 8) traçam a massa
+  total MW+LMC. Veja a [linha temporal da chegada da
+  LMC](/videos/timeline_Mv_reflex.mp4) e as estimativas de massa
+  resultantes. Essa região do céu é bem coberta por levantamentos
+  espectroscópicos como o SDSS e o DESI, além de ser a menos
+  contaminada pela corrente estelar de Sgr, o que a torna a melhor
+  janela observacional para restringir o perfil de massa total
+  MW+LMC. Veja a [corrente estelar de Sgr](/videos/sgr_tube_spin.mp4), com a intersecção
+  com o footprint do DESI mostrada com cores escuras,
+  identificadas com o algoritmo compartilhado por [Byström et
+  al. (2024)](https://scixplorer.org/abs/2025MNRAS.542..560B/abstract).
+  Usando dados do DESI-MWS, estimamos a massa total MW+LMC
+  $M(r<60\,\mathrm{kpc}) \approx 7.5^{+3.0}_{-2.2}\times
+  10^{11}\,\mathrm{M}_\odot$.  <div style="clear: both;"></div>
+  
+
+---
 <div class="header-left">
 
 ### [Minimum-entropy constraints on galactic potentials](https://scixplorer.org/abs/2024arXiv240707947B/abstract),
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
-  src="/figs/2025_BeS_fig11.png" width="500" alt=""> </figure>
+  src="/figs/2025_BeS_fig11.png" width="450" alt=""> </figure>
   
   por Beraldo e Silva et al. (2025), onde usamos as coordenadas de uma
   amostra estelar em equilíbrio em um dado potencial para restringir

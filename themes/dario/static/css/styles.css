@@ -658,8 +658,15 @@ footer {
   /* margin: 0 auto; */
     /* width: 125%; */
     /* transform: translateX(-12.5%); */
+    width: 112%;
+    margin-left: -6%;
+}
+
+@media (max-width: 900px) {
+  .content-wrapper .highlights {
     width: 100%;
-    transform: translateX(0%);
+    margin-left: 0;
+  }
 }
 
 

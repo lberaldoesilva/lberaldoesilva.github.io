@@ -15,6 +15,39 @@ translationKey: "highlights"
 <!--   box-peanut bulges.  </figure> <p id="img-caption"></figure> </div> <\!-- -->
 <!--   -------------------------------------------------- -\-> -->
 
+<div class="header-right">
+
+### [The meaning of Milky Way mass estimates in the presence of the LMC](),
+</div>
+<!-- Margins: TOP RIGHT BOTTOM LEFT -->
+<figure style="float: left; margin: 0px 15px 0px 0;">
+  <img src="/figs/2027_BeS_fig8.png" width="400" alt="">
+    <!-- <figcaption style="text-align: left; font-size: 0.8em; margin-top: 0.em;"> -->
+    <!--   From Beraldo e Silva et al. (2023). -->
+    <!-- </figcaption> -->
+	</figure>
+  
+  by Beraldo e Silva et al. (2027), where we show that the LMC-induced
+  disequilibrium of the MW stellar halo, long seen as an obstacle to
+  measuring the Galaxy’s mass, can instead be used to constrain the
+  total MW+LMC, the LMC and then the MW pre-LMC infall mass
+  profiles. As shown in the figure (bottom panels), stars in the
+  region of the sky crossed by the LMC path the longest time ago
+  (octants 7 \& 8) trace the total MW+LMC mass. See the [LMC infall
+  timeline](/videos/timeline_Mv_reflex.mp4) and the resulting mass
+  estimates. This region of the sky is well covered by spectroscopic
+  surveys such as SDSS and DESI, and is the least contaminated by the
+  Sgr stream, making it the best observational window to constrain the
+  MW+LMC mass. See the [Sgr stream](/videos/sgr_tube_spin.mp4), with
+  the intersection with the DESI footprint shown in darker colors,
+  identified with the algorithm shared by [Byström et
+  al. (2024)](https://scixplorer.org/abs/2025MNRAS.542..560B/abstract). Using
+  data from the DESI-MWS, we estimate a total MW+LMC mass
+  $M(r<60\,\mathrm{kpc}) \approx 7.5^{+3.0}_{-2.2}\times
+  10^{11}\,\mathrm{M}_\odot$. <div style="clear: both;"></div>
+  
+
+---
 <div class="header-left">
 
 ### [Minimum-entropy constraints on galactic potentials](https://scixplorer.org/abs/2024arXiv240707947B/abstract),
@@ -22,7 +55,7 @@ translationKey: "highlights"
 </div>
 <!-- Margins: TOP RIGHT BOTTOM LEFT -->
 <figure style="float: right; margin: 0px 0px 0px 15px;"> <img
-  src="/figs/2025_BeS_fig11.png" width="500" alt=""> </figure>
+  src="/figs/2025_BeS_fig11.png" width="450" alt=""> </figure>
   
   by Beraldo e Silva et al. (2025), where we use the coordinates of a
   stellar sample in equilibrium within a given potential to constrain
