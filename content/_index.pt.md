@@ -28,7 +28,7 @@ Observatory (University of Arizona, EUA), na University of Michigan
 (EUA), na University of Central Lancashire (Inglaterra) e na
 Universidade de São Paulo (USP, Brasil). Obtive meu doutorado na USP,
 durante o qual passei um ano trabalhando no Institut d'Astrophysique
-de Paris (França). Também concluí minha graduação na USP.
+de Paris (França). Também concluí o mestrado e graduação na USP.
 
 Minha pesquisa é focada em dinâmica galáctica e na estrutura e
 evolução de galáxias, na interface entre modelagem teórica, simulações
@@ -45,8 +45,8 @@ de matéria escura da Via Láctea, no papel das ressonâncias na
 estruturação das populações estelares da Galáxia e nos eventos de
 acreção da galáxia de Andrômeda.
 
-Atualmente coordeno o grupo de trabalho da Via Láctea na colaboração
-[DESI](https://www.desi.lbl.gov/) — consulte os [catálogos estelares
+De 2024 a 2026, coordenei o grupo de trabalho da Via Láctea na colaboração
+[DESI](https://www.desi.lbl.gov/). Atualmente coordeno o projeto dedicado aos vínculos sobre a distribuição de massa da Via Láctea, um dos projetos-chave da colaboração DESI — consulte os [catálogos estelares
 do DESI-MWS
 DR1](https://data.desi.lbl.gov/doc/releases/dr1/#milky-way-survey-mws),
 com velocidades radiais, abundâncias químicas, parâmetros

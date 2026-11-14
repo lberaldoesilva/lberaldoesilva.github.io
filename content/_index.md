@@ -28,7 +28,7 @@ Observatory (University of Arizona, US), at the University of Michigan
 (US), at the University of Central Lancashire (UK), and at
 Universidade de São Paulo (USP, Brasil). I earned my PhD at USP,
 during which I spent a year working at the Institut d'Astrophysique
-de Paris (France). I also completed my undergraduate degree at USP.
+de Paris (France). I also completed my Msc and undergraduate degrees at USP.
 
 My focus is on galactic dynamics and the structure and evolution of
 galaxies, at the interface of theoretical modelling, N-body
@@ -43,8 +43,8 @@ My current interests center on the properties of the Milky Way's dark
 matter halo, the role of resonances in shaping stellar populations in
 the Galaxy, and the merger history of Andromeda.
 
-I currently serve as co-chair of the [DESI](https://www.desi.lbl.gov/)
-Milky Way Survey working group - check the [DESI-MWS DR1 stellar
+From 2024 to 2026, I served as co-chair of the [DESI](https://www.desi.lbl.gov/)
+Milky Way Survey working group. I currently serve as co-lead of the project to constrain the Milky Way mass distribution, one of the Key Projects of DESI - check the [DESI-MWS DR1 stellar
 catalogs](https://data.desi.lbl.gov/doc/releases/dr1/#milky-way-survey-mws),
 with radial velocities, chemical abundances, atmospheric parameters,
 distances etc.
